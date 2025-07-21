@@ -1,0 +1,1 @@
+Welcome to my personal developer portfolio. This website showcases who I am, what I do and the projects I've worked on as I grow in the field of Software Development. This portfolio highlights my journry, skills and the projects am proud of.
